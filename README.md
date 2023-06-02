@@ -16,8 +16,10 @@
 
 
  <br/></div>
+ 
+Atualmente cursando Desenvolvimento Web Back-End (Node.js, PostgreSQL, TypeORM, Python,Django),visando o certificado de Desenvolvedor web Full Stack.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheustdl&layout=donut&theme=radical)](https://github.com/Matheustdl/github-readme-stats)
 
-🌱 Atualmente cursando Desenvolvimento Web Back-End (Node.js, PostgreSQL, TypeORM, Python,Django),visando o certificado de Desenvolvedor web Full Stack.
+
+
 
