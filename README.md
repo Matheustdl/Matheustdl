@@ -1,6 +1,4 @@
-### Hi there 👋
-
-👩‍💻 Olá! Eu sou o Matheus Theodoro !
+👋 Olá! Eu sou o Matheus Theodoro !
 
 📱 Desenvolvedor Front End | HTML | JavaScript | React | Styled-Componentes | Typescript | Tailwind
 
