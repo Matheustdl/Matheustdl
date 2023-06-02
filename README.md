@@ -4,7 +4,7 @@
 
 📱 Desenvolvedor Front End | HTML | JavaScript | React | Styled-Componentes | Typescript | Tailwind
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheustdl&layout=donut)](https://github.com/Matheustdl/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheustdl&layout=donut&theme=dracula)](https://github.com/Matheustdl/github-readme-stats)
 
 🌱 Atualmente cursando Desenvolvimento Web Back-End (Node.js, PostgreSQL, TypeORM, Python,Django),visando o certificado de Desenvolvedor web Full Stack.
 
