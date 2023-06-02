@@ -2,6 +2,7 @@
 
 👩‍💻 Olá! Eu sou o Matheus Theodoro !
 
-📱 Desenvolvedor Front End | Javascript | HTML | CSS | Typescript | Reactjs
+📱 Desenvolvedor Front End | HTML | JavaScript | React | Styled-Componentes | Typescript | Tailwind
 
-🌱 Hoje estou cursando Back End na Kenzie Academy Brasil
+🌱 Atualmente cursando Desenvolvimento Web Back-End (Node.js, PostgreSQL, TypeORM, Python,Django),visando o certificado de Desenvolvedor web Full Stack.
+
