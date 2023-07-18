@@ -17,10 +17,6 @@ Atualmente cursando Desenvolvimento Web Back-End (Node.js, PostgreSQL, TypeORM, 
 <img align="center" alt='NODE.JS' src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'/>
  
 <br/></div>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheustdl&layout=donut&theme=radical)](https://github.com/Matheustdl/github-readme-stats)
-
-
 
 
 
