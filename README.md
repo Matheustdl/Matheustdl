@@ -1,10 +1,8 @@
 ## Olá! Eu sou o Matheus Theodoro 🖐️
 
-Atualmente cursando Desenvolvimento Web Back-End (Node.js, PostgreSQL, TypeORM, Python,Django),visando o certificado de Desenvolvedor web Full Stack.
+Atualmente cursando Análise e Desenvolvimento de Sistemas. Ja tenho experiencia em algumas tecnologias, estou sempre buscando aprender mais sobre desenvolvimento de software.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-theodoro-0aab6b241/)
-
-## Tecnologias que eu uso no meu dia
+## Tecnologias e Ferramentas
 
 <div style='display: inline_block'>
 <br/>
@@ -18,5 +16,8 @@ Atualmente cursando Desenvolvimento Web Back-End (Node.js, PostgreSQL, TypeORM, 
  
 <br/></div>
 
-
+<div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=matheustdl&show_icons=true&hide_rank=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=matheustdl&hide=python&layout=compact&theme=radical)
+</div>
 
